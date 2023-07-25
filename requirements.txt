@@ -182,7 +182,6 @@ tensorflow==2.13.0
 tensorflow-addons==0.20.0
 tensorflow-estimator==2.13.0
 tensorflow-hub==0.14.0
-tensorflow-intel==2.13.0
 tensorflow-io-gcs-filesystem==0.31.0
 tensorflow-text==2.10.0
 termcolor==2.2.0
